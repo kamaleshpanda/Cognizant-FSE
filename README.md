@@ -1,42 +1,51 @@
-# Cognizant Digital Nurture 4.0 - Java FSE
+# Cognizant FSE
 
-This repository contains all the hands-on lab solutions, exercises, and code implementations for the Cognizant Digital Nurture 4.0 Java Full Stack Engineering (Java FSE) track, covering both Upskilling and Deepskilling modules.
+This repository contains all the questions, hands-on lab solutions, exercises, and code implementations for the Cognizant FSE program, organized into Upskilling and Deepskilling tracks.
 
 ---
 
 ## Repository Structure
 
 ```
-Java FSE/
+Cognizant FSE/
 ├── Upskilling/
-│   ├── Core Java/                       (42 Java exercise programs)
-│   ├── Module1_HTML5_Answers.md         (HTML5 labs)
-│   ├── Module1_CSS3_Answers.md          (CSS3 labs)
-│   ├── Module1_Bootstrap5_Answers.md    (Bootstrap 5 labs)
-│   ├── Module1_JavaScript_Answers.md    (JavaScript labs)
-│   └── Module2_SQL_Answers.md           (MySQL database exercises)
+│   ├── Questions/
+│   │   ├── Module 1-HTML 5.pdf
+│   │   ├── Module 1-CSS3.pdf
+│   │   ├── Module 1-Bootstrap5.pdf
+│   │   ├── Module 1-JavaScript.pdf
+│   │   ├── Module 2-ANSI SQL Using MySQL.pdf
+│   │   └── Module 3-Core Java.pdf
+│   └── Answers/
+│       ├── Core Java/                           (42 Java programs)
+│       ├── Module1_HTML5_Answers.md
+│       ├── Module1_CSS3_Answers.md
+│       ├── Module1_Bootstrap5_Answers.md
+│       ├── Module1_JavaScript_Answers.md
+│       └── Module2_SQL_Answers.md
 │
 └── Deepskilling/
-    ├── answers/
-    │   ├── Algorithms_DataStructures_Answers.md  (Data structures & search/sort)
-    │   ├── DesignPatterns_Answers.md             (11 GoF design pattern solutions)
-    │   ├── Git_HOL_Answers.md                    (Git CLI workflow & conflict resolution)
-    │   ├── JUnit_Mockito_SL4J_Answers.md         (Unit testing, mocking & logging)
-    │   ├── Microservices_Answers.md              (Eureka, API Gateway, Feign & Resilience4j)
-    │   ├── PLSQL_Answers.md                      (PL/SQL blocks, procedures, triggers)
-    │   ├── ReactJS_HOL_Answers.md                (React components, props, state & router)
-    │   ├── SpringCore_Maven_Answers.md           (Spring IoC, DI, XML & annotation config)
-    │   ├── SpringDataJPA_Answers.md              (Entity mapping, repositories & ORM)
-    │   └── SpringREST_Answers.md                 (REST APIs, exception handling & JWT)
-    ├── Engineering concepts/
-    ├── GIT/
-    ├── JUnit, Mockito and SL4J/
-    ├── Microservices/
-    ├── PL SQL programming/
-    ├── React/
-    ├── Spring Core and Maven/
-    ├── Spring Data JPA with Hibernate/
-    └── Spring REST using Spring Boot/
+    ├── Questions/
+    │   ├── Engineering concepts/                (Data structures & Design patterns)
+    │   ├── GIT/                                 (Git HOL 1 to 5)
+    │   ├── JUnit, Mockito and SL4J/             (JUnit, Mockito & SLF4J exercises)
+    │   ├── Microservices/                       (Microservices exercises)
+    │   ├── PL SQL programming/                  (PL/SQL exercises)
+    │   ├── React/                               (ReactJS HOL 1 to 19)
+    │   ├── Spring Core and Maven/               (Spring Core & Maven exercises)
+    │   ├── Spring Data JPA with Hibernate/      (Spring Data JPA exercises)
+    │   └── Spring REST using Spring Boot/       (Spring REST & JWT exercises)
+    └── Answers/
+        ├── Algorithms_DataStructures_Answers.md
+        ├── DesignPatterns_Answers.md
+        ├── Git_HOL_Answers.md
+        ├── JUnit_Mockito_SL4J_Answers.md
+        ├── Microservices_Answers.md
+        ├── PLSQL_Answers.md
+        ├── ReactJS_HOL_Answers.md
+        ├── SpringCore_Maven_Answers.md
+        ├── SpringDataJPA_Answers.md
+        └── SpringREST_Answers.md
 ```
 
 ---
@@ -44,17 +53,12 @@ Java FSE/
 ## Summary of Modules
 
 ### Upskilling
-- HTML5, CSS3, Bootstrap 5, and JavaScript frontend exercises.
-- ANSI SQL queries with database schema and sample data.
-- Core Java exercises covering basics, OOPs, collections, multithreading, JDBC, streams, and Java 21 features.
+- Questions: Original PDFs covering HTML5, CSS3, Bootstrap 5, JavaScript, ANSI SQL, and Core Java.
+- Answers: Markdown solutions and 42 standalone Core Java `.java` code files.
 
 ### Deepskilling
-- Engineering Concepts: Data structures, search/sort algorithms, and design patterns.
-- PL/SQL: Control structures, procedures, functions, cursors, triggers, and packages.
-- Git: Branching, merging, `.gitignore`, and conflict resolution.
-- Spring & Spring Boot: Spring Core IoC/DI, Spring Data JPA, Hibernate, Spring REST, JWT security, JUnit 5/Mockito testing, and SLF4J logging.
-- Microservices: Service discovery with Eureka server, Spring Cloud API Gateway, Feign clients, and circuit breaking.
-- ReactJS: Component architecture, props, state management, lifecycle hooks, and React Router DOM.
+- Questions: Original documents (.docx and .pdf) across 9 engineering domains.
+- Answers: Solution markdown files for Engineering Concepts (Data Structures & Design Patterns), PL/SQL, Git, Spring Core, Spring Data JPA, Spring REST, JUnit/Mockito, Microservices, and ReactJS.
 
 ---
 
